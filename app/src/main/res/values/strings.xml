@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VirtualReality</string>
+    <string name="title_photo_detail">Photo Detail</string>
+    <string name="title_activity_load_file">LoadFileActivity</string>
+
+</resources>
